@@ -13,7 +13,7 @@ const Delivery = () => {
         <img
           className="w-[550px] mx-auto my-4"
           src="https://res.cloudinary.com/ehizeex-shop/image/upload/v1672676822/NetflixApp/FC_two_phones.6ec9a842f905769677f9_m91off.webp"
-          alt="Image of mobile"
+          alt="mobile data"
         />
         <div className="flex flex-col justify-center text-start">
           <p className="text-[#00df9a] font-bold ">Get The App</p>
